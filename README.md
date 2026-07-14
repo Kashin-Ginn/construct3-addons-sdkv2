@@ -1,4 +1,4 @@
-# Construct 3 Addons — SDK V2
+# Construct 3 Addons SDK V2
 
 A collection of Construct 3 addons built with the official SDK V2, made by [Kashin Ginn](https://kashin-ginn.itch.io/).
 
@@ -6,7 +6,7 @@ A collection of Construct 3 addons built with the official SDK V2, made by [Kash
 
 | Addon | Description | Link |
 |-------|-------------|------|
-| Easy Shake | A simple and flexible camera shake addon | [construct.net](https://www.construct.net/en/make-games/addons/1495/easy-shake) |
+| Easy Shake | A simple and flexible object shake addon | [construct.net](https://www.construct.net/en/make-games/addons/1495/easy-shake) |
 | Rex Layer | Advanced layer manipulation and control | [construct.net](https://www.construct.net/en/make-games/addons/1497/rex-layer) |
 
 ## Installation
