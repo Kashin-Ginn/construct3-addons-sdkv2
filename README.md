@@ -15,9 +15,7 @@ A collection of Construct 3 addons built with the official SDK V2, made by [Kash
 2. Open Construct 3
 3. Drag and drop the `.c3addon` file
 
-## License
-
-MIT License — free to use in personal and commercial projects. The addons may not be sold or redistributed as standalone products. See [LICENSE](./LICENSE) for details.
+**License** — MIT License — free to use in personal and commercial projects. The addons may not be sold or redistributed as standalone products. See [LICENSE](./LICENSE) for details.
 
 ---
 
