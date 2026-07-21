@@ -26,3 +26,5 @@ MIT License — free to use in personal and commercial projects. The addons may 
 | Addon | Description | Link |
 |-------|-------------|------|
 | Local Notification Plus | Local notification system for mobile games | [construct.net](https://www.construct.net/en/game-assets/addons/local-notification-plus-5283) |
+
+**License** — Single-seat license. You may use this addon in unlimited personal and commercial projects. Redistribution, resale, or sharing of the addon file in any form is strictly prohibited.
