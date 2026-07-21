@@ -11,9 +11,9 @@ A collection of Construct 3 addons built with the official SDK V2, made by [Kash
 
 ## Paid Addons
 
-| Addon | Description | Price | Link |
-|-------|-------------|-------|------|
-| Local Notification Plus | Local notification system for mobile games — scheduling, custom sounds, vibration, image attachments and more. Android only. | $15.19 | [construct.net](https://www.construct.net/en/game-assets/addons/local-notification-plus-5283) |
+| Addon | Description | Link |
+|-------|-------------|------|
+| Local Notification Plus | Local notification system for mobile games | [construct.net](https://www.construct.net/en/game-assets/addons/local-notification-plus-5283) |
 
 ## Installation
 
