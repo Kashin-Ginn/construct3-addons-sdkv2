@@ -24,6 +24,6 @@ A collection of Construct 3 addons built with the official SDK V2, made by [Kash
 | Addon | Description | Link |
 |-------|-------------|------|
 | Local Notification Plus | Local notification system for mobile games | [construct.net](https://www.construct.net/en/game-assets/addons/local-notification-plus-5283) · [itch.io](https://kashin-ginn.itch.io/local-notification-plus) |
-| Ribbon Trail | Smooth, fading ribbon trails for any object | [itch.io](https://kashin-ginn.itch.io/ribbon-trail) |
+| Ribbon Trail | Smooth, fading ribbon trails for any object | [construct.net](https://www.construct.net/en/game-assets/addons/ribbon-trail-5750) · [itch.io](https://kashin-ginn.itch.io/ribbon-trail) |
 
 **License** — Single-seat license. You may use this addon in unlimited personal and commercial projects. Redistribution, resale, or sharing of the addon file in any form is strictly prohibited.
